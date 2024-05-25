@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896563129745",
+    "project_id": "chat-uygulamasi-d05f3",
+    "storage_bucket": "chat-uygulamasi-d05f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896563129745:android:ac66e9c0a6b136c1cc3e30",
+        "android_client_info": {
+          "package_name": "tr.com.nuritiras.chatuygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjOsHQjaVzNDjAvG7J-BiZAuPxMSjHIO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
